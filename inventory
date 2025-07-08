@@ -1,5 +1,6 @@
 [web_servers]
 10.0.2.6 ansible_python_interpreter=/usr/bin/python3.12
+10.0.2.15 ansible_python_interpreter=/usr/bin/python3.13
 
 [db_servers]
 10.0.2.15 ansible_python_interpreter=/usr/bin/python3.13
